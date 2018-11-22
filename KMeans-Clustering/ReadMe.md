@@ -6,7 +6,7 @@ We are to generate a cluster to better inform the management of this organizatio
 well as what group each of their registered clients belongs to
 
 # File
-Open the Client_behavious_analysis.ipynb file to see the notebook
+Open the (Client_behavious_analysis.ipynb)[https://github.com/wilpat/machine-learning/blob/master/KMeans-Clustering/Client_behaviour_analysis.ipynb] file to see the notebook
 
 # Tools
 I used The KMeans cluster model of the sklearn python package to figure out insights in the given data and create the clusters.
